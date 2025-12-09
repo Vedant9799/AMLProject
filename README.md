@@ -1,4 +1,4 @@
-# AMLProject
+# AML Project
 Medical Insurance ML Project
 
 The files have been segregated for each problem
